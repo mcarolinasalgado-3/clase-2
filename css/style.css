@@ -1,0 +1,49 @@
+/*PERSONALIZACION DE COLORES*/
+body {
+    background-color: #202b22;
+}
+
+footer {
+    background-color: #515151;
+}
+
+h1 {
+    color: #FFD85F;
+}
+
+h2 {
+    color: #FFD85F;
+}
+
+.texto-imagenes {
+    color: #9eb8a3;
+}
+
+.texto-footer {
+    color: #cccccc;
+}
+
+/*PERSONALIZACION DE FUENTES*/
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*PERSONALIZACION DE IMAGEN*/
+.header {
+    background-image: url(../img/fondo-portada.jpg);
+}
+.header-eventos {
+    background-image: url(../img/fondo-eventos.png);
+}
